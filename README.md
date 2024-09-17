@@ -2,6 +2,10 @@ Name: Lamia Alam
 
 This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io 
 
+Activity 1: 
+
+<img width="1357" alt="Screenshot 2024-09-17 at 2 34 54 PM" src="https://github.com/user-attachments/assets/b03c46a6-b295-4d21-b7e7-090dce030104">
+
 
 
 Original Read Me Below: 
