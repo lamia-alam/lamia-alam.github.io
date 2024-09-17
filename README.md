@@ -1,3 +1,12 @@
+Name: Lamia Alam
+
+This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io 
+
+
+
+Original Read Me Below: 
+
+
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
