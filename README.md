@@ -26,6 +26,8 @@ Acitivty 3 Home Page:
 
 Activity 4 Repo:
 
+<img width="1232" alt="Screenshot 2024-09-18 at 12 36 59 PM" src="https://github.com/user-attachments/assets/33dec3a8-2832-4c6b-bc85-e4b742bdacd9">
+
 Activity 4 Places Travelled Section: 
 
 <img width="1232" alt="Screenshot 2024-09-18 at 12 32 05 PM" src="https://github.com/user-attachments/assets/7385c6db-680e-4b21-91ea-df429930b627">
