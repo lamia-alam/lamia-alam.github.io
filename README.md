@@ -16,12 +16,19 @@ Activity 2 Home Page:
 ![ScreenRecording2024-09-17at11 16 41PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/000df010-5ab8-48eb-a34c-adccd976999c)
 
 Activity 3 Repo:
+
 <img width="1241" alt="Screenshot 2024-09-18 at 8 48 57 AM" src="https://github.com/user-attachments/assets/15e03c60-79f8-4785-aba3-198d90cc84bf">
 <img width="1241" alt="Screenshot 2024-09-18 at 8 49 08 AM" src="https://github.com/user-attachments/assets/b7a0131c-a349-40d3-9104-3a6505c0e386">
 
 Acitivty 3 Home Page: 
 
 <img width="1232" alt="Screenshot 2024-09-18 at 8 49 28 AM" src="https://github.com/user-attachments/assets/368c9887-ddb9-4ed0-9f6b-64f4808d9d73">
+
+Activity 4 Repo:
+
+Activity 4 Places Travelled Section: 
+
+<img width="1232" alt="Screenshot 2024-09-18 at 12 32 05 PM" src="https://github.com/user-attachments/assets/7385c6db-680e-4b21-91ea-df429930b627">
 
 
 Original Read Me Below: 
