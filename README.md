@@ -11,8 +11,10 @@ Activity 2 Repo:
 <img width="1276" alt="Screenshot 2024-09-17 at 10 59 04 PM" src="https://github.com/user-attachments/assets/930f4977-9eed-4997-a085-3b5e8b9fff8b">
 
 
-
 Activity 2 Home Page: 
+
+![ScreenRecording2024-09-17at11 16 41PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/000df010-5ab8-48eb-a34c-adccd976999c)
+
 
 Original Read Me Below: 
 
