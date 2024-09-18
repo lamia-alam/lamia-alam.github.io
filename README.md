@@ -6,10 +6,17 @@ Activity 1:
 
 <img width="1357" alt="Screenshot 2024-09-17 at 2 34 54 PM" src="https://github.com/user-attachments/assets/b03c46a6-b295-4d21-b7e7-090dce030104">
 
+Activity 2 Repo: 
 
+<img width="1276" alt="Screenshot 2024-09-17 at 10 59 04 PM" src="https://github.com/user-attachments/assets/930f4977-9eed-4997-a085-3b5e8b9fff8b">
+
+
+
+Activity 2 Home Page: 
 
 Original Read Me Below: 
 
+------------------------------
 
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
