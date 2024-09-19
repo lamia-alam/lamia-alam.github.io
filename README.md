@@ -32,6 +32,15 @@ Activity 4 Places Travelled Section:
 
 <img width="1232" alt="Screenshot 2024-09-18 at 12 32 05 PM" src="https://github.com/user-attachments/assets/7385c6db-680e-4b21-91ea-df429930b627">
 
+Activity 5 Repo:
+
+<img width="1376" alt="Screenshot 2024-09-18 at 8 40 22 PM" src="https://github.com/user-attachments/assets/8492f1bf-8b75-4ecf-8056-160cd289fc02">
+
+
+Activity 5 Recent Projects Section: 
+
+<img width="1376" alt="Screenshot 2024-09-18 at 8 40 51 PM" src="https://github.com/user-attachments/assets/2f058f9d-dae4-4291-9372-49f43579ea7b">
+
 
 Original Read Me Below: 
 
