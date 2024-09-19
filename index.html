@@ -100,6 +100,13 @@
             class="mdi-action-trending-up small"></i><span>Experience</span></a>
       </li>
 
+      <li class="bold"></li>
+        <!-- mdi-av-web small
+             mdi-av-my-library-books small-->
+        <a aria-label="Navigate to the Recent Projects section" href="#recent-projects" class="waves-effect waves-dark teal-text"><i
+            class="mdi-av-my-library-books small"></i><span>Recent Projects</span></a>
+      </li>
+
       <li class="bold">
         <!-- mdi-av-web small
              mdi-av-my-library-books small-->
@@ -187,6 +194,10 @@
         <a aria-label="Navigate to the Experience section" href="#experience"
           class="waves-effect waves-dark teal-text"><i
             class="mdi-action-trending-up small"></i><span>Experience</span></a>
+      </li>
+      <li class="bold"></li>
+        <a aria-label="Navigate to the Projects section" href="#recent-projects" class="waves-effect waves-dark teal-text"><i
+            class="mdi-av-my-library-books small"></i><span>Recent Projects</span></a>
       </li>
       <li class="bold">
         <a aria-label="Navigate to the Projects section" href="#projects" class="waves-effect waves-dark teal-text"><i
@@ -361,12 +372,19 @@
       </div>
     </section>
 
+    <section id="recent-projects" class="section scrollspy">
+      <h2 class="page-title white-text teal">Recent Projects</h2>
+      <div id="projects-container"></div>
+      <button id="load-more">Load More</button>
+    </section>
+
     <!-- Fourth Section: Projects -->
     <section id="projects" class="section scrollspy">
       <h3 class="page-title white-text teal">Projects</h3>
       <div class="container">
         <div class="row">
-
+          
+          <!--First Project-->
           <div class="col s12 m6 l4">
             <div class="card medium">
               <div class="card-image waves-effect waves-block waves-light">
@@ -378,6 +396,7 @@
                 <p>
                   A lab from Computer Networks I where a file could be transferred from a server computer to a client
                 </p>
+                <p>Date: 2024-09-16</p>
               </div>
               <div class="card-reveal">
                 <!-- TODO: change this -- only close button -->
@@ -399,6 +418,90 @@
                     class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i
                       class="fa fa-external-link"></i></a> -->
                   <a aria-label="Visit the GitHub repo for  project" href="https://github.com/lamia-alam/File_Transfer"
+                    target="_blank" data-position="top" data-tooltip="View Source"
+                    class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i
+                      class="fa fa-github"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!--Second Project-->
+          <div class="col s12 m6 l4">
+            <div class="card medium">
+              <div class="card-image waves-effect waves-block waves-light">
+                <img alt="345 labs" src="/assets/img/algorithm2.jpg" style="height: 100%; width: 100%" class="activator" />
+              </div>
+              <div class="card-content">
+                <span class="card-title activator teal-text hoverline">ECE345 Labs<i
+                    class="mdi-navigation-more-vert right"></i></span>
+                <p>
+                  Labs from ECE345
+                </p>
+                <p>Date: 2024-09-16</p>
+              </div>
+              <div class="card-reveal">
+                <!-- TODO: change this -- only close button -->
+                <!-- <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span> -->
+                <span class="card-title grey-text"><small>Accomplishments</small><i
+                    class="mdi-navigation-close right"></i></span>
+                <ul>
+                  <li><b>Tools:</b> My brain and Python</li>
+                  <!--<li>Register/login to the web app(with OAuth-based Google Sign-In).</li>
+                  <li>Search and filter songs based on language and singer.</li>
+                  <li>Create multiple playlists and add/remove songs to/from playlist.</li>
+                  <li>Scroll through recently played/viewed songs.</li>-->
+
+
+                </ul>
+                <div class="card-action">
+                  <!--<a aria-label="Visit " href="https://galvanic-music.herokuapp.com/" target="_blank" data-position="top"
+                    data-tooltip="View Online"
+                    class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i
+                      class="fa fa-external-link"></i></a> -->
+                  <a aria-label="Visit the GitHub repo for  project" href="https://github.com/lamia-alam/ece345-programming-assignments"
+                    target="_blank" data-position="top" data-tooltip="View Source"
+                    class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i
+                      class="fa fa-github"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+           <!--Third Project-->
+           <div class="col s12 m6 l4">
+            <div class="card medium">
+              <div class="card-image waves-effect waves-block waves-light">
+                <img alt="345 assignments" src="/assets/img/algorithm1.webp" style="height: 100%; width: 100%" class="activator" />
+              </div>
+              <div class="card-content">
+                <span class="card-title activator teal-text hoverline">ECE345 Assignments<i
+                    class="mdi-navigation-more-vert right"></i></span>
+                <p>
+                  Labs from ECE345
+                </p>
+                <p>Date: 2024-09-17</p>
+              </div>
+              <div class="card-reveal">
+                <!-- TODO: change this -- only close button -->
+                <!-- <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span> -->
+                <span class="card-title grey-text"><small>Accomplishments</small><i
+                    class="mdi-navigation-close right"></i></span>
+                <ul>
+                  <li><b>Tools:</b> My brain and dying will to live</li>
+                  <!--<li>Register/login to the web app(with OAuth-based Google Sign-In).</li>
+                  <li>Search and filter songs based on language and singer.</li>
+                  <li>Create multiple playlists and add/remove songs to/from playlist.</li>
+                  <li>Scroll through recently played/viewed songs.</li>-->
+
+
+                </ul>
+                <div class="card-action">
+                  <!--<a aria-label="Visit " href="https://galvanic-music.herokuapp.com/" target="_blank" data-position="top"
+                    data-tooltip="View Online"
+                    class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i
+                      class="fa fa-external-link"></i></a> -->
+                  <a aria-label="Visit the GitHub repo for  project" href="https://github.com/lamia-alam/ECE345"
                     target="_blank" data-position="top" data-tooltip="View Source"
                     class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i
                       class="fa fa-github"></i></a>
@@ -967,6 +1070,101 @@
   <!-- Materialize - Compiled and minified JavaScript-->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/js/materialize.min.js"></script>
   <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      // Grab the container and button elements
+      const projectsContainer = document.getElementById("projects-container");
+      const loadMoreButton = document.getElementById("load-more");
+
+      // Define the projects data
+      const projects = [
+        {
+          title: "ECE361 File Transfer Project/Lab",
+          description: "A lab from Computer Networks I where a file could be transferred from a server computer to a client",
+          date: "2024-09-16",
+          imgSrc: "/assets/img/Client-Server-Architecture-1.png",
+          tools: "C",
+          repoUrl: "https://github.com/lamia-alam/File_Transfer"
+        },
+        {
+          title: "ECE345 Labs",
+          description: "Labs from ECE345",
+          date: "2024-09-16",
+          imgSrc: "/assets/img/algorithm2.jpg",
+          tools: "Python",
+          repoUrl: "https://github.com/lamia-alam/ece345-programming-assignments"
+        },
+        {
+          title: "ECE345 Assignments",
+          description: "Assignments from ECE345",
+          date: "2024-09-17",
+          imgSrc: "/assets/img/algorithm1.webp",
+          tools: "My brain and dying will to live",
+          repoUrl: "https://github.com/lamia-alam/ECE345"
+        },
+        // Add more projects here...
+      ];
+
+      let visibleProjectsCount = 1; // How many projects to show initially
+      const loadCount = 1; // How many projects to load each time
+
+      // Sort projects by date (newest first)
+      projects.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+      // Function to create and display a project card
+      function createProjectCard(project) {
+        return `
+          <div class="col s12 m6 l4">
+            <div class="card medium">
+              <div class="card-image waves-effect waves-block waves-light">
+                <img alt="${project.title}" src="${project.imgSrc}" style="height: 100%; width: 100%" class="activator" />
+              </div>
+              <div class="card-content">
+                <span class="card-title activator teal-text hoverline">${project.title}<i class="mdi-navigation-more-vert right"></i></span>
+                <p>${project.description}</p>
+                <p>Date: ${project.date}</p>
+              </div>
+              <div class="card-reveal">
+                <span class="card-title grey-text"><small>Accomplishments</small><i class="mdi-navigation-close right"></i></span>
+                <ul>
+                  <li><b>Tools:</b> ${project.tools}</li>
+                </ul>
+                <div class="card-action">
+                  <a href="${project.repoUrl}" target="_blank" class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i class="fa fa-github"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>`;
+      }
+
+      // Function to render visible projects
+      function renderProjects() {
+        // Clear the container
+        projectsContainer.innerHTML = '';
+
+        // Render projects based on visible count
+        const projectsToShow = projects.slice(0, visibleProjectsCount);
+        projectsToShow.forEach(project => {
+          projectsContainer.innerHTML += createProjectCard(project);
+        });
+
+        // Hide "Load More" button if all projects are visible
+        if (visibleProjectsCount >= projects.length) {
+          loadMoreButton.style.display = 'none';
+        } else {
+          loadMoreButton.style.display = 'block';
+        }
+      }
+
+      // Initial render
+      renderProjects();
+
+      // Load more button click event
+      loadMoreButton.addEventListener("click", function () {
+        visibleProjectsCount += loadCount; // Increase the number of visible projects
+        renderProjects(); // Re-render the projects
+      });
+    });
+
     // Materialize - Initializers
     $(document).ready(function () {
       $(".scrollspy").scrollSpy()
